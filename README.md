@@ -75,9 +75,9 @@ An upcoming Data Engineering project focused on building a data-driven supply ch
 ## 🤝 Connect With Me
 
 - GitHub: [@AbhinavReddy118](https://github.com/AbhinavReddy118)
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your professional email here
+- LinkedIn: [@GodalaAbhinavReddy](https://www.linkedin.com/in/godalaabhinavreddy/)
+- Email: godalaabhinavreddy1@gmail.com
 
 ---
 
-*Learning continuously. Building practically. Growing one project at a time.*
+*Learning continuously. Building practically.*
